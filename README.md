@@ -1,2 +1,2 @@
 # quackface1.github.io
-a random github page
+Just doin a collab website with timy-420
